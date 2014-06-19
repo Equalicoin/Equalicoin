@@ -1,9 +1,9 @@
-Building FooCoin
+Building Equalicoin
 
 See doc/readme-qt.rst for instructions on building equalicoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of FooCoin.
+implementation of Equalicoin.
 
 See doc/build-*.txt for instructions on building equalicoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of FooCoin.
+implementation of Equalicoin.
