@@ -816,9 +816,6 @@ public:
             // special case for inserting at the front when there's room
             nReadPos -= (last - first);
             memcpy(&vch[nReadPos], &first[0], last - first);
-        }
-        else
-            vch.insert(it, first, last);
     }
 #endif
 
